@@ -1,0 +1,26 @@
+{001} Fahrrad
+
+{001} rot
+invalide source
+{001} 1000 €
+{002} Boot
+{002} 7000 €
+{003} LKW
+dslkfjlsdkajfldsjfldsk
+{003} weiß
+{003} 100000 €
+{003} 8 Achsen
+{003} ABS
+{011} Manfred
+{011} Bäcker
+{012} Tina
+{012} Bauer
+{012} 23
+
+
+
+{013} Henry
+{013} Jette
+{013} 44
+{013} ledig
+{013} 4 Kinder
